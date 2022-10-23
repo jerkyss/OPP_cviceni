@@ -1,0 +1,1 @@
+print("Rikanka pro deti")
